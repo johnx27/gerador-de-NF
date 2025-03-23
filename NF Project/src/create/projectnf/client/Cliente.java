@@ -6,8 +6,6 @@ import java.util.List;
 import java.util.ArrayList;
 import java.util.Scanner;
 
-// ADICIONAR OS DADOS DOS CLIENTES E O QUE ELES ESTAA CMPRANDO DA LISTA DE PRODUTOS
-// DEPOIS ADICIONAR TUDO DENTRO DA FUNÇAO QUE IRA IMPRIMIR A NF CM OS DADOS DOS CLIENTES E O NUMERO RANDOMICO
 
 public class Cliente {
      public Scanner scanner;
@@ -44,7 +42,7 @@ public class Cliente {
          lista.add(name);
          lista.add(String.valueOf(IdCliente));
 
-         System.out.println(lista);
+        
      }
 
 
